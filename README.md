@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinkleSoni
 - 👀 I’m interested in ...UI/UX, Website Development, and building MERN stack.
-- 🌱 I’m currently learning ...ReactJS and mongoDB
+- 🌱 I’m currently learning ...Vue.Js
 - 💞️ I’m looking to collaborate on ...Frontend projects
 - 📫 How to reach me ...pinklesoni.225@gmail.com
 
