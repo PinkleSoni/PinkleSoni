@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...UI/UX, Website Development, and building MERN stack.
 - 🌱 I’m currently learning ...Vue.Js
 - 💞️ I’m looking to collaborate on ...Frontend projects
-- 📫 How to reach me ...pinklesoni.225@gmail.com
+- 📫 How to reach me ...sonipinkle@gmail.com
 
 <!---
 PinkleSoni/PinkleSoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
