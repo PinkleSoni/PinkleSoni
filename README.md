@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PinkleSoni
-- 👀 I’m interested in ...UI/UX, Website Development, and building MERN stack.
-- 🌱 I’m currently learning ...Typescript, Vue.Js
-- 💞️ I’m looking to collaborate on ...Frontend projects
+- Based in USA as a product designer (web) at an ecommerce company.
+- Currently desgining and coding apps, using AI platoform  mostly
 - 📫 How to reach me ...sonipinkle@gmail.com
 
 <!---
