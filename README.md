@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PinkleSoni
-- Based in USA as a product designer (web) at an ecommerce company.
 - Currently desgining and coding apps, using AI mostly
 - 📫 How to reach me ...sonipinkle@gmail.com
 
