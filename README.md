@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PinkleSoni
 - Currently desgining and coding apps, using AI mostly
 - 📫 How to reach me ...sonipinkle@gmail.com
-- My Design Portfolio: https://pinkle-portfolio.vercel.app/
+- My Design Portfolio: https://pinkle-design.vercel.app/
 <!---
 PinkleSoni/PinkleSoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
